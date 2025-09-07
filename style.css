@@ -127,7 +127,6 @@ body {
 .text-shimmer {
     background: linear-gradient(45deg, #ffffff, #3b82f6, #8b5cf6, #ffffff);
     background-size: 300% 300%;
-    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: shimmer 3s ease-in-out infinite;
@@ -478,7 +477,4 @@ a:focus, button:focus, input:focus, textarea:focus, select:focus {
         background: white !important;
         color: black !important;
     }
-}
-.centre{
-    align-items: center;
 }
