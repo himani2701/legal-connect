@@ -25,8 +25,8 @@ Version Control: Git & GitHub
 Getting Started
 To run this project locally, clone the repository and open the index.html file in your browser. No server setup is required for the initial phase.
 
-git clone [https://github.com/YourUsername/Your-Repository-Name.git](https://github.com/YourUsername/Your-Repository-Name.git)
-cd Your-Repository-Name
+git clone https://github.com/himani2701/legal-connect
+cd legal-connect
 
 Next Steps
 The next phase of the project will focus on building out the interactive features, including the case submission form and the case history showcase, with a focus on implementing robust security protocols.
